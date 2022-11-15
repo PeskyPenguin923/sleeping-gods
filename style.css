@@ -102,6 +102,57 @@ body {
 
 /* Quest tracker style */
 
+.quest-heading {
+    display: flex;
+    justify-content: center;
+    font-size: 26px;
+}
+
+.quest-list .first {
+    display: flex;
+    justify-content: space-around;
+    border-style: solid;
+    border-width: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.first-heading {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.quest-list .second {
+    display: flex;
+    justify-content: space-around;
+    border-style: solid;
+    border-width: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.second-heading {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.quest-list .third {
+    display: flex;
+    justify-content: space-around;
+    border-style: solid;
+    border-width: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.third-heading {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
 /* Adventure Card style */
 
 /* Journey log style */
