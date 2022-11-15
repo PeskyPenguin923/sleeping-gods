@@ -32,6 +32,53 @@ body {
     font-size: 26px;
 }
 
+.summary-container .top {
+    display: flex;
+    justify-content: center;
+}
+
+.title-card {
+    display: flex;
+    justify-content: center;
+}
+
+.quests-container {
+    height: 200px;
+    width: 400px;
+    border-width: 3px;
+    border-style: solid;
+    margin: 2px;
+}
+
+.adventure-container {
+    height: 200px;
+    width: 400px;
+    border-width: 3px;
+    border-style: solid;
+    margin: 2px;
+}
+
+.keywords-container {
+    height: 200px;
+    width: 400px;
+    border-width: 3px;
+    border-style: solid;
+    margin: 2px;
+}
+
+.monsters-container {
+    height: 200px;
+    width: 400px;
+    border-width: 3px;
+    border-style: solid;
+    margin: 2px;
+}
+
+.summary-container .bottom {
+    display: flex;
+    justify-content: center;
+}
+
 .table {
     display: flex;
     justify-content:space-around;
