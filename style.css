@@ -3,6 +3,7 @@ body {
     background-color: #181818;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
 }
 
 .header {
@@ -151,6 +152,16 @@ body {
     display: flex;
     justify-content: center;
     margin-top: 25px;
+}
+
+.subquest div {
+    margin: 2px;
+    width: 300px;
+    height: 30px;
+}
+
+.subquest .complete {
+    color: green;
 }
 
 /* Adventure Card style */
