@@ -23,12 +23,6 @@ body {
     border-width: 4px;
 }
 
-.below-header {
-    display: flex;
-    justify-content: center;
-    margin-top: 25px;
-    margin-bottom: 25px;
-}
 
 .heading {
     display: flex;
