@@ -1,0 +1,39 @@
+body {
+    color: white;
+    background-color: #181818;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.below-header {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-around;
+    border-style: solid;
+    border-width: 3px;
+    font-size: 26px;
+}
+
+.table {
+    display: flex;
+    justify-content:space-around;
+}
+
+.table div {
+    border-style: solid;
+    border-width: 3px;
+    width: 350px;
+}
