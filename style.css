@@ -21,6 +21,12 @@ body {
     margin-bottom: 20px;
     border-style: outset;
     border-width: 4px;
+    font-size: 26px;
+    color: white;
+}
+
+.menu-container a {
+    color: white;
 }
 
 
@@ -31,6 +37,8 @@ body {
     border-width: 3px;
     font-size: 26px;
 }
+
+/* Homepage style */
 
 .summary-container .top {
     display: flex;
@@ -79,6 +87,8 @@ body {
     justify-content: center;
 }
 
+/* Notes style */
+
 .table {
     display: flex;
     justify-content:space-around;
@@ -88,4 +98,109 @@ body {
     border-style: solid;
     border-width: 3px;
     width: 350px;
+}
+
+/* Quest tracker style */
+
+/* Adventure Card style */
+
+/* Journey log style */
+
+.log-container .first {
+    border-style: solid;
+    border-width: 4px;
+    background-color: rgb(8, 81, 8);
+}
+
+
+.ship {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.ship-location {
+    display: flex;
+    justify-content: center;
+}
+
+.log-container .second {
+    border-style: solid;
+    border-width: 4px;
+    margin-top: 4px;
+    background-color: rgb(128, 0, 0);
+}
+
+.health-header {
+    display: flex;
+    justify-content: center;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.ship-sections {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.log-container .third {
+    border-style: solid;
+    border-width: 4px;
+    background-color: rgb(0, 151, 151);
+    margin-top: 4px;
+}
+
+.player-header {
+    display: flex;
+    justify-content: center;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.player-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.player-1 {
+    border-right-style: solid;
+    border-right-width: 4px;
+    width: 250px;
+}
+
+.player-2 {
+    border-right-style: solid;
+    border-right-width: 4px;
+    width: 250px;
+}
+
+.player-3 {
+    border-right-style: solid;
+    border-right-width: 4px;
+    width: 250px;
+}
+
+.player-4 {
+    width: 250px;
+}
+
+.log-container .forth {
+    border-style: solid;
+    border-width: 4px;
+    margin-top: 4px;
+    background-color: rgb(62, 0, 120);
+}
+
+.misc {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
