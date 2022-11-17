@@ -469,3 +469,11 @@ body {
     padding-top: 25px;
     padding-bottom: 25px;
 }
+
+/* Map Style */
+
+.map-container {
+    width: 1500px;
+    height: 1000px;
+    border-style: outset;
+}
