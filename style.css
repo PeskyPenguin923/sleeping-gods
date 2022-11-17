@@ -116,14 +116,37 @@ body {
 
 .ship-loc-save {
     border-right-style: solid;
+    padding-right: 40px;
 }
 
 .ship-act-save {
     border-right-style: solid;
+    padding-right: 40px;
 }
 
 .health-save {
     border-right-style: solid;
+    padding-right: 40px;
+}
+
+.player-save {
+    border-right-style: solid;
+    padding-right: 40px;
+}
+
+.exp-save {
+    border-right-style: solid;
+    padding-right: 40px;
+}
+
+.event-save {
+    border-right-style: solid;
+    padding-right: 40px;
+}
+
+.defeat-saves {
+    border-right-style: solid;
+    padding-right: 40px;
 }
 
 /* Notes style */
