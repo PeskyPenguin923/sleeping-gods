@@ -1,0 +1,7 @@
+1. Add Adventure cards pages.
+-complete the information for the adventure cards
+2. Add map to map.html
+3. Add trackers to Homepage
+4. Find and add background images to the sides of the Homepage
+5. Find a way to take the save information from Journey log and add it to the Homepage
+6. Add information to the resources, including locations.
