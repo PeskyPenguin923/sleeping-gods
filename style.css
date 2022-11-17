@@ -107,46 +107,127 @@ body {
 .saves-table {
     display: flex;
     justify-content: space-evenly;
+    background-color: rgb(0, 63, 0);
 }
 
 .dates {
+    display: flex;
+    justify-content: center;
     border-right-style: solid;
-    padding-right: 40px;
+    width: 187px;
 }
 
 .ship-loc-save {
+    display: flex;
+    justify-content: center;
     border-right-style: solid;
-    padding-right: 40px;
+    width: 187px;
 }
 
 .ship-act-save {
+    display: flex;
+    justify-content: center;
     border-right-style: solid;
-    padding-right: 40px;
+    width: 187px;
 }
 
 .health-save {
+    display: flex;
+    justify-content: center;
     border-right-style: solid;
-    padding-right: 40px;
+    width: 187px;
 }
 
 .player-save {
+    display: flex;
+    justify-content: center;
     border-right-style: solid;
-    padding-right: 40px;
+    width: 187px;
 }
 
 .exp-save {
+    display: flex;
+    justify-content: center;
     border-right-style: solid;
-    padding-right: 40px;
+    width: 187px;
 }
 
 .event-save {
+    display: flex;
+    justify-content: center;
     border-right-style: solid;
-    padding-right: 40px;
+    width: 187px;
 }
 
 .defeat-saves {
-    padding-right: 40px;
+    display: flex;
+    justify-content: center;
+    width: 187px;
 }
+
+.data-container {
+    display: flex;
+    justify-content: space-evenly;
+    border-top-style: solid;
+    border-top-width: 4px;
+    font-size: 16px;
+}
+
+.date-data {
+    display: flex;
+    justify-content: center;
+    border-right-style: solid;
+    width: 187px;
+}
+
+.location-data {
+    display: flex;
+    justify-content: center;
+    border-right-style: solid;
+    width: 187px;
+}
+
+.action-data {
+    display: flex;
+    justify-content: center;
+    border-right-style: solid;
+    width: 187px;
+}
+
+.health-data {
+    display: flex;
+    justify-content: center;
+    border-right-style: solid;
+    width: 187px;
+}
+
+.player-data {
+    display: flex;
+    justify-content: center;
+    border-right-style: solid;
+    width: 187px;
+}
+
+.exp-data {
+    display: flex;
+    justify-content: center;
+    border-right-style: solid;
+    width: 187px;
+}
+
+.event-data {
+    display: flex;
+    justify-content: center;
+    border-right-style: solid;
+    width: 187px;
+}
+
+.defeat-data {
+    display: flex;
+    justify-content: center;
+    width: 187px;
+}
+
 
 /* Notes style */
 
