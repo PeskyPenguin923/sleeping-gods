@@ -91,17 +91,39 @@ body {
 .save-container {
     border-style: solid;
     border-width: 4px;
+    margin-top: 8px;
 }
 
 .save-heading {
     display: flex;
     justify-content: center;
     font-size: 26px;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+    margin-top: 15px;
+    padding-bottom: 15px;
 }
 
 .saves-table {
     display: flex;
     justify-content: space-evenly;
+}
+
+.dates {
+    border-right-style: solid;
+    padding-right: 40px;
+}
+
+.ship-loc-save {
+    border-right-style: solid;
+}
+
+.ship-act-save {
+    border-right-style: solid;
+}
+
+.health-save {
+    border-right-style: solid;
 }
 
 /* Notes style */
