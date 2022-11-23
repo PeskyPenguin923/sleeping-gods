@@ -307,6 +307,11 @@ body {
 
 /* Adventure Card style */
 
+.alpha-container {
+    display: flex;
+    justify-content: space-around;
+}
+
 /* Journey log style */
 
 .log-container .first {
@@ -468,6 +473,57 @@ body {
     justify-content: space-around;
     padding-top: 25px;
     padding-bottom: 25px;
+}
+
+.resource-heading {
+    display: flex;
+    justify-content: center;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    margin-top: 4px;
+    border-width: 4px;
+    padding-top: 15px;
+    padding-bottom:15px;
+    background-color: #cb7e39;
+}
+
+.resource-save {
+    display: flex;
+    justify-content: space-around;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-bottom-style: solid;
+    border-width: 4px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #184718;
+}
+
+.resource-save .gold {
+    display: flex;
+    padding-right: 4px;
+}
+
+.resource-save .meat {
+    display: flex;
+    padding-right: 4px;
+}
+
+.resource-save .wheat {
+    display: flex;
+    padding-right: 4px;
+}
+
+.resource-save .vegetable {
+    display: flex;
+    padding-right: 4px;
+}
+
+.resource-save .wood {
+    display: flex;
+    padding-right: 4px;
 }
 
 /* Map and Resources Style */
