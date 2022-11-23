@@ -478,6 +478,11 @@ body {
     border-style: outset;
 }
 
+.map-container img {
+    width: 1500px;
+    height: auto;
+}
+
 .resources-container {
     display: flex;
     justify-content: space-evenly;
